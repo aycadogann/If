@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\bin\Debug\net5.0\If_ElseIf.exe
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\bin\Debug\net5.0\If_ElseIf.deps.json
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\bin\Debug\net5.0\If_ElseIf.runtimeconfig.json
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\bin\Debug\net5.0\If_ElseIf.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\bin\Debug\net5.0\If_ElseIf.dll
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\bin\Debug\net5.0\If_ElseIf.pdb
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\obj\Debug\net5.0\If_ElseIf.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\obj\Debug\net5.0\If_ElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\obj\Debug\net5.0\If_ElseIf.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\obj\Debug\net5.0\If_ElseIf.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\obj\Debug\net5.0\If_ElseIf.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\obj\Debug\net5.0\If_ElseIf.dll
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\obj\Debug\net5.0\refint\If_ElseIf.dll
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\obj\Debug\net5.0\If_ElseIf.pdb
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\obj\Debug\net5.0\If_ElseIf.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Pratikler\If_ElseIf\obj\Debug\net5.0\ref\If_ElseIf.dll
